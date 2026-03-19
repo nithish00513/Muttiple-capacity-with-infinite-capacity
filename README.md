@@ -15,10 +15,6 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 ![image](https://user-images.githubusercontent.com/103921593/203238265-176740b0-eae2-4772-90be-5449869ac9b0.png)
 
-## EXPERIMENT :
-![exp 5 first pic](https://github.com/user-attachments/assets/d8f63de8-86e1-4dc4-85b2-3865c1059adc)
-
-![exp 5 pic 2](https://github.com/user-attachments/assets/2c447dd9-a128-41ee-a5e3-937f394a3850)
 
 ## PROGRAM :
 DEVELOPED BY : nithish kumar
